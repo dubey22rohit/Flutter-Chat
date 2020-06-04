@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "482174124653",
+    "firebase_url": "https://thunder-chat-33ca4.firebaseio.com",
+    "project_id": "thunder-chat-33ca4",
+    "storage_bucket": "thunder-chat-33ca4.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:482174124653:android:5562412286b2fe28b67564",
+        "android_client_info": {
+          "package_name": "com.scorpion.thunder_chat"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "482174124653-84e1oao7ekper84fdq7ct4kp774vshfp.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDUwoyp0WYA7QjQuX-nvan1g7ZhFbyHBuY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "482174124653-84e1oao7ekper84fdq7ct4kp774vshfp.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
