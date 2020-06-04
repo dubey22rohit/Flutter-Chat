@@ -1,10 +1,14 @@
+
+
+import 'package:cloud_firestore/cloud_firestore.dart';
 import 'package:flutter/material.dart';
 
 class MessageBubble extends StatelessWidget {
   final String text;
   final String sender;
   final bool isMe;
-  MessageBubble({this.text, this.sender, this.isMe});
+  final Timestamp time;
+  MessageBubble({this.text, this.sender, this.isMe,this.time});
   @override
   Widget build(BuildContext context) {
     return Padding(
